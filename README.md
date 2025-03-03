@@ -11,9 +11,28 @@ March 24-April 8th
 https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
 
 •AWS
+•ONLINE SITE TO ORGANIE APPLICATIONS FROM TEXT/link INPUTS - Link with applciation email or gmail to give automation - give user control on automactic or not
+-Search linkedin for people to email that work there any are psu alumni 
+-Train own model or use RAG to identify emails and allow pasting in job description
+-Use deepseek to maybe make my own API to use AI when needed to search/summarize
+-Outsource to fiver for a video to explain what it is
+-What does it do? Allow a dashboard of job applications and show the data applied, contacts reached out to (user input), any updates from that company that were sent to an email,
+--if a follow up email was sent, important people related to the job if someone reached out
+--Have different tabs for filtering applications like HOT ones (got replies/contacts there), cold (nothing yet), dead(got rejected)
+-Allow user configuration for things like mark emails as read, update if an application is dead(got denied),
+-Give local backups to the user in some format -Long and short maybe pdf to their email?
+•Add things like Company Name, job description, location, pay, 
+•
 
 
 
+
+
+
+
+
+
+•State College Food Ordering
 
 
 #
