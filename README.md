@@ -12,6 +12,8 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-bui
 
 Codementor https://www.codementor.io › projects
 
+https://www.codepath.org/courses
+
 •AWS
 •ONLINE SITE TO ORGANIE APPLICATIONS FROM TEXT/link INPUTS - Link with applciation email or gmail to give automation - give user control on automactic or not
 -Search linkedin for people to email that work there any are psu alumni 
