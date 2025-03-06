@@ -10,6 +10,8 @@ March 24-April 8th
 •Free Code Camp projects
 https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
 
+Codementor https://www.codementor.io › projects
+
 •AWS
 •ONLINE SITE TO ORGANIE APPLICATIONS FROM TEXT/link INPUTS - Link with applciation email or gmail to give automation - give user control on automactic or not
 -Search linkedin for people to email that work there any are psu alumni 
