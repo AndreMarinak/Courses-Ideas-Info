@@ -1,3 +1,6 @@
+#My github to write down ideas and resources
+#
+#
 # 📚 Courses & Learning Resources  
 Useful resources for learning and upskilling:  
 - [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths  
@@ -6,6 +9,44 @@ Useful resources for learning and upskilling:
 - [Free Code Camp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)  
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
 - [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses  
+
+
+
+
+
+
+
+
+Idea #1:
+
+Online Job Application Tracker
+Objective: Build a web platform to help users track, organize, and manage job applications using automation and AI.
+
+Key Features
+Automated Tracking: Users can manually input job applications or paste job descriptions.
+Email Integration: Connect with Gmail to detect job-related emails and update application status.
+LinkedIn Search: Find PSU alumni or employees at applied companies.
+AI Insights: Use DeepSeek API or a custom AI model to extract recruiter emails and summarize job postings.
+Dashboard: Track applications with categories like Hot (responses received), Cold (no response), and Dead (rejected).
+User Customization: Mark emails as read, update application status, and generate local backups in CSV, JSON, or PDF.
+Report Generation: Send job summaries via email.
+Explainer Video: Consider outsourcing to Fiverr for a promotional video.
+Technologies
+AWS, Flask/Django, React/Next.js, PostgreSQL/MySQL, Gmail API, LinkedIn API, AI Summarization
+
+A streamlined system to help job seekers efficiently track applications and follow up on opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
