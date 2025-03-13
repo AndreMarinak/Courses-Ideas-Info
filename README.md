@@ -39,8 +39,9 @@ A streamlined system to help job seekers efficiently track applications and foll
 ---
 
 # 🔧 What Should I Learn for CS?
+---
 # ChatGPT responds:
-
+---
 ## 💻 Essential Programming Languages & Frameworks
 
 ### 1️⃣ Python  
