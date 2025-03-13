@@ -1,18 +1,13 @@
-# Courses
-# Useful source: https://roadmap.sh/
-# https://www.w3schools.com/
+# 📚 Courses & Learning Resources  
+Useful resources for learning and upskilling:  
+- [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths  
+- [W3Schools](https://www.w3schools.com/) – Beginner-friendly coding tutorials  
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24-April 8th  
+- [Free Code Camp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)  
+- [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
+- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses  
 
-
-•(https://summerofcode.withgoogle.com/)
-March 24-April 8th 
-
-
-•Free Code Camp projects
-https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
-
-Codementor https://www.codementor.io › projects
-
-https://www.codepath.org/courses
+---
 
 •AWS
 •ONLINE SITE TO ORGANIE APPLICATIONS FROM TEXT/link INPUTS - Link with applciation email or gmail to give automation - give user control on automactic or not
