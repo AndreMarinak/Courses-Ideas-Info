@@ -1,6 +1,5 @@
 #My github to write down ideas and resources
-#
-#
+---
 # 📚 Courses & Learning Resources  
 Useful resources for learning and upskilling:  
 - [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths  
@@ -39,8 +38,10 @@ A streamlined system to help job seekers efficiently track applications and foll
 ---
 
 # 🔧 What Should I Learn for CS?
----
+#
 # ChatGPT responds:
+#
+
 ---
 ## 💻 Essential Programming Languages & Frameworks
 
