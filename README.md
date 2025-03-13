@@ -7,36 +7,12 @@ Useful resources for learning and upskilling:
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
 - [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses  
 
----
-
-•AWS
-•ONLINE SITE TO ORGANIE APPLICATIONS FROM TEXT/link INPUTS - Link with applciation email or gmail to give automation - give user control on automactic or not
--Search linkedin for people to email that work there any are psu alumni 
--Train own model or use RAG to identify emails and allow pasting in job description
--Use deepseek to maybe make my own API to use AI when needed to search/summarize
--Outsource to fiver for a video to explain what it is
--What does it do? Allow a dashboard of job applications and show the data applied, contacts reached out to (user input), any updates from that company that were sent to an email,
---if a follow up email was sent, important people related to the job if someone reached out
---Have different tabs for filtering applications like HOT ones (got replies/contacts there), cold (nothing yet), dead(got rejected)
--Allow user configuration for things like mark emails as read, update if an application is dead(got denied),
--Give local backups to the user in some format -Long and short maybe pdf to their email?
-•Add things like Company Name, job description, location, pay, 
-•
 
 
 
+#Me: What should I learn for CS?
+#ChatGPT:
 
-
-
-
-
-
-•State College Food Ordering app 
-
-
-#
-#
-#
 # 📌 Essential Programming Languages & Frameworks for Software Engineering
 
 If you're aiming to become a **strong software engineer**, these are the **top 5 programming languages** and the **key frameworks** to learn with each.
@@ -152,5 +128,4 @@ If you're aiming to become a **strong software engineer**, these are the **top 5
 ✅ **Databases & Data Science:** SQL (PostgreSQL + Prisma)  
 ✅ **High-Performance Backend:** Go (Gin + Kubernetes)  
 
-💡 Want to contribute? Fork this repo and start building projects! 🚀
 
