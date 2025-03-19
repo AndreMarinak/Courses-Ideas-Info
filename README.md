@@ -1,17 +1,15 @@
 #My github to write down ideas and resources
 ---
 # 📚 Courses & Learning Resources  
-Useful resources for learning and upskilling:  
 - [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths  
 - [W3Schools](https://www.w3schools.com/) – Beginner-friendly coding tutorials  
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24-April 8th  
-- [Free Code Camp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)  
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24–April 8  
+- [FreeCodeCamp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) – Hands-on coding projects  
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
-- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses
-- [CodePath Courses]([https://www.codepath.org/courses](https://opencv.org/university)) – Industry-driven courses  
-- []()
+- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven tech courses  
+- [OpenCV University Free Course](https://opencv.org/university/free-opencv-course/) – Computer vision fundamentals with certification
 
-
+---
 
 ## 💡 Idea #1: Online Job Application Tracker
 
