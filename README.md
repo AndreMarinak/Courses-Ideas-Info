@@ -8,6 +8,12 @@
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
 - [CodePath Courses](https://www.codepath.org/courses) – Industry-driven tech courses  
 - [OpenCV University Free Course](https://opencv.org/university/free-opencv-course/) – Computer vision fundamentals with certification
+- [Google IT Support Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-it-support)  
+  Learn the fundamentals of IT support including troubleshooting, customer service, networking, operating systems, and system administration.
+- [AWS Cloud Practitioner Essentials (AWS Training)](https://www.aws.training/)  
+  Get started with cloud computing concepts, AWS core services, security, architecture, pricing, and support.
+- [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
+  Learn front-end development skills including HTML, CSS, JavaScript, React, and design principles from Meta (Facebook).
 
 ---
 
