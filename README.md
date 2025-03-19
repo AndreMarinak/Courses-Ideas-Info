@@ -8,7 +8,7 @@ Useful resources for learning and upskilling:
 - [Free Code Camp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)  
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
 - [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses  
-
+- [OpenCV] (https://opencv.org/university)
 
 
 
