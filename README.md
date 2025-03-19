@@ -14,7 +14,14 @@
   Get started with cloud computing concepts, AWS core services, security, architecture, pricing, and support.
 - [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
   Learn front-end development skills including HTML, CSS, JavaScript, React, and design principles from Meta (Facebook).
+- [Full Stack Open](https://fullstackopen.com/en/)  
+  Deep dive into modern web development with JavaScript, React, Node.js, GraphQL, TypeScript, and CI/CD practices. Offered by the University of Helsinki.
 
+- [The Odin Project](https://www.theodinproject.com/)  
+  Full-stack curriculum covering HTML, CSS, JavaScript, Node.js, databases, and more — all project-based and free.
+
+- [HackerRank](https://www.hackerrank.com/)  
+  Practice coding problems, data structures, algorithms, SQL, and compete in coding challenges and contests.
 ---
 
 ## 💡 Idea #1: Online Job Application Tracker
