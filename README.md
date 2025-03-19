@@ -7,8 +7,9 @@ Useful resources for learning and upskilling:
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24-April 8th  
 - [Free Code Camp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)  
 - [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
-- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses  
-- [OpenCV] (https://opencv.org/university)
+- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven courses
+- [CodePath Courses]([https://www.codepath.org/courses](https://opencv.org/university)) – Industry-driven courses  
+- []()
 
 
 
