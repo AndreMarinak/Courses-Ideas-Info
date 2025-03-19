@@ -1,28 +1,35 @@
 #My github to write down ideas and resources
 ---
 # 📚 Courses & Learning Resources  
-- [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths  
-- [W3Schools](https://www.w3schools.com/) – Beginner-friendly coding tutorials  
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24–April 8  
-- [FreeCodeCamp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) – Hands-on coding projects  
-- [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects  
-- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven tech courses  
+
+
+## 🌐 General Programming & Roadmaps
+- [Roadmap.sh](https://roadmap.sh/) – Guides for different programming paths
+- [W3Schools](https://www.w3schools.com/) – Beginner-friendly coding tutorials
+- [FreeCodeCamp Projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) – Hands-on coding projects
+- [Codementor](https://www.codementor.io/projects) – Coding mentorship and projects
+- [HackerRank](https://www.hackerrank.com/) – Practice coding problems, algorithms, data structures, SQL, and more
+
+## 🖥️ Full-Stack & Web Development
+- [Full Stack Open](https://fullstackopen.com/en/) – Deep dive into modern web development (JavaScript, React, Node.js, GraphQL, TypeScript)
+- [The Odin Project](https://www.theodinproject.com/) – Free full-stack curriculum covering HTML, CSS, JavaScript, Node.js, databases, and more
+- [Zero to Mastery JavaScript Projects Course](https://zerotomastery.io/courses/javascript-projects/) – Build real-world JavaScript projects to strengthen your skills
+
+## ☁️ Cloud, IT, and Professional Certifications
+- [Google IT Support Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-it-support) – IT fundamentals, troubleshooting, networking, system administration
+- [AWS Cloud Practitioner Essentials (AWS Training)](https://www.aws.training/) – Intro to cloud computing, AWS services, security, and architecture
+- [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/meta-front-end-developer) – HTML, CSS, JavaScript, React, and front-end development principles
+
+## 🤖 AI / Computer Vision / Specialized Topics
 - [OpenCV University Free Course](https://opencv.org/university/free-opencv-course/) – Computer vision fundamentals with certification
-- [Google IT Support Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-it-support)  
-  Learn the fundamentals of IT support including troubleshooting, customer service, networking, operating systems, and system administration.
-- [AWS Cloud Practitioner Essentials (AWS Training)](https://www.aws.training/)  
-  Get started with cloud computing concepts, AWS core services, security, architecture, pricing, and support.
-- [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
-  Learn front-end development skills including HTML, CSS, JavaScript, React, and design principles from Meta (Facebook).
-- [Full Stack Open](https://fullstackopen.com/en/)  
-  Deep dive into modern web development with JavaScript, React, Node.js, GraphQL, TypeScript, and CI/CD practices. Offered by the University of Helsinki.
 
-- [The Odin Project](https://www.theodinproject.com/)  
-  Full-stack curriculum covering HTML, CSS, JavaScript, Node.js, databases, and more — all project-based and free.
+## 🚀 Tech Career & Industry Exposure
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) – March 24–April 8 — work on open-source projects with mentorship
+- [CodePath Courses](https://www.codepath.org/courses) – Industry-driven tech courses to prepare for careers in software engineering, cybersecurity, and more
 
-- [HackerRank](https://www.hackerrank.com/)  
-  Practice coding problems, data structures, algorithms, SQL, and compete in coding challenges and contests.
----
+## 🔗 Project & API Resources
+- [Free Public APIs Collection](https://free-apis.github.io/#/) – A collection of free APIs for practice projects and portfolio building
+
 
 ## 💡 Idea #1: Online Job Application Tracker
 
