@@ -54,6 +54,19 @@ Develop a web platform to help users **track, organize, and manage job applicati
 
 A streamlined system to help job seekers efficiently track applications and follow up on opportunities.
 
+
+
+## 💡 Idea #2: GroupMe Bot that acutally works 
+## 💡 Idea #3: Multiple box word counter and grammer/spell checker w chatgpt api- allow formatting
+## 💡 Idea #4: Persoanl assistant that calls, works w google calendar, I can check with, will text and call me, and I can interact with. Allow two options of permissions 
+## 💡 Idea #5: Personal Website
+## 💡 Idea #6: 
+
+
+
+
+
+
 ---
 
 # 🔧 What Should I Learn for CS?
