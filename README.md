@@ -61,6 +61,7 @@ A streamlined system to help job seekers efficiently track applications and foll
 ## 💡 Idea #4: Persoanl assistant that calls, works w google calendar, I can check with, will text and call me, and I can interact with. Allow two options of permissions 
 ## 💡 Idea #5: Personal Website
 ## 💡 Idea #6: GPT read my emails and summarize them and auto generate different responses
+Dave's Delivery
 
 
   
