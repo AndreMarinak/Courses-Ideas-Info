@@ -62,6 +62,8 @@ A streamlined system to help job seekers efficiently track applications and foll
 ## 💡 Idea #5: Personal Website
 ## 💡 Idea #6: GPT read my emails and summarize them and auto generate different responses
 Dave's Delivery
+Tophat Attendence/Questions
+2D/3D tic tac toe AI
 
 
   
